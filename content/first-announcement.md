@@ -173,6 +173,7 @@ Additionally, here are a few links to check out more about Yelken:
 
 * Repository: [https://github.com/bwqr/yelken](https://github.com/bwqr/yelken)
 * Book: [https://bwqr.github.io/yelken-book](https://bwqr.github.io/yelken-book)
+* Blog: [https://bwqr.github.io/yelken-blog](https://bwqr.github.io/yelken-blog)
 * Examples: [https://github.com/bwqr/yelken/tree/main/examples](https://github.com/bwqr/yelken/tree/main/examples)
 * Towards Yelken 0.1.0: [https://github.com/users/bwqr/projects/3](https://github.com/users/bwqr/projects/3)
 * Discord server: [https://discord.gg/D4bfHr8neh](https://discord.gg/D4bfHr8neh)
