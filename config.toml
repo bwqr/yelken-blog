@@ -1,0 +1,23 @@
+# The URL the site will be built for
+base_url = "https://bwqr.github.io/yelken-blog/"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+taxonomies = [
+    { name = "categories" },
+    { name = "tags" },
+]
+
+title = "Yelken Blog"
+description = "Blog site hosting Yelken related posts"
+
+[markdown]
+highlight_code = true
+
+[extra]
+anpu_date_format="%e %B %Y"
+anpu_menu_links = []
