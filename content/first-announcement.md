@@ -125,7 +125,7 @@ Once features are stabilized, I can start developing the admin panel.
 
 ## Future of Yelken
 Yelken has many compelling features, most of which have been implemented.
-The next step will be to implement the remaining parts, stabilize features, and fine-tune them according to the user's needs.
+The next step will be to implement the remaining parts, stabilize features, and fine-tune them according to the users' needs.
 During this phase, there will be a couple more alpha releases, which will eventually lead to a beta release.
 You can track the development from the [Yelken 0.1.0](https://github.com/users/bwqr/projects/3) project.
 
