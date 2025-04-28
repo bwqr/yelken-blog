@@ -1,6 +1,6 @@
 +++
 title = "Yelken Alpha Release Announcement"
-date = 2025-05-01
+date = 2025-04-28
 +++
 
 Welcome to Yelken's first alpha release announcement, a project described as a *Secure by Design, Extendable, and Speedy Next-Generation Content Management System (CMS)*.
