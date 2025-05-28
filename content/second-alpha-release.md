@@ -42,8 +42,8 @@ I only used Leptos's rendering capabilities and successfully integrated it into 
 
 I parted the Yelken project into a workspace with multiple crates to have the App run both in CSR mode and SSR mode, where SSR mode was running inside the Yelken.
 While developing the App, I was using CSR mode to just compile the App itself without compiling the whole Yelken to improve the iteration speed.
-However, my productivity was reduced due to the challenges I encountered during the development, which bothered me a lot.
-To mention just two of them, compile times and optimized binary sizes are not comparable to JavaScript solutions (in my case, they were between 5-10 seconds and close to 2MB binary size).
+However, my productivity was reduced due to the challenges I encountered during the development.
+To mention just two of them, compile times are not comparable to JavaScript solutions (in my case, they were between 5-10 seconds for an edit-compile iteration).
 Rust-analyzer was also having some problem to provide quick actions or suggestions.
 I hope to write a detailed blog post about them and discuss possible solutions.
 
